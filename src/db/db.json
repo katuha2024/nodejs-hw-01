@@ -1,1 +1,37 @@
-[]
+[
+  {
+    "id": "eb751f03-a4a9-46f4-87c4-8f8c26501fda",
+    "name": "Abraham Senger",
+    "phone": "925.441.4866 x0841",
+    "email": "Chelsea56@yahoo.com",
+    "job": "Lead Usability Planner"
+  },
+  {
+    "id": "e748b2f2-7c13-4dc0-8368-ab0e89e90250",
+    "name": "Belinda Jaskolski",
+    "phone": "254.569.3865 x1111",
+    "email": "Hailee.Mante@gmail.com",
+    "job": "Principal Tactics Director"
+  },
+  {
+    "id": "ef354723-6d6e-4c6e-a9df-454740d19d52",
+    "name": "Dr. Darryl Blanda",
+    "phone": "516.462.4561 x927",
+    "email": "Luigi_Toy@hotmail.com",
+    "job": "Senior Implementation Planner"
+  },
+  {
+    "id": "8e115bb9-ebda-4073-b8e0-0efc2c70af23",
+    "name": "Michelle Hand",
+    "phone": "672-271-6393 x052",
+    "email": "Helena9@yahoo.com",
+    "job": "Central Integration Agent"
+  },
+  {
+    "id": "1e581b76-1bda-46b8-83cd-be9a7e8a8d6d",
+    "name": "Wilfred Blanda",
+    "phone": "296.480.2973 x79523",
+    "email": "Tillman55@yahoo.com",
+    "job": "Lead Marketing Producer"
+  }
+]
